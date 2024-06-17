@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Layer One X developer task
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Repo to deploy simple ERC20 smart contract to L1X network, following L1X SDK.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+https://blog.l1x.foundation/deploy-and-earn-1500-l1x/
